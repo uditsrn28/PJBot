@@ -1,0 +1,30 @@
+{
+  "name": "superbot",
+  "version": "1.0.0",
+  "description": "This is a slack bot which do some cool stuff",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uditsrn28/PJBot.git"
+  },
+  "keywords": [
+    "SlackBot",
+    "SuperBot",
+    "Nodejs",
+    "Slack",
+    "Bot"
+  ],
+  "author": "uditsarin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uditsrn28/PJBot/issues"
+  },
+  "homepage": "https://github.com/uditsrn28/PJBot#readme",
+  "dependencies": {
+    "slackbots": "^0.5.0",
+    "sqlite3": "^3.1.1"
+  }
+}
