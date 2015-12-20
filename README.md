@@ -11,8 +11,8 @@ particular channel.
 The Internet Chuck Norris Database offers a very nice REST API that allows us to fetch a huge number of jokes about Chuck Norris,
 so I already preconfigured the database file by importing all the jokes from there. 
 
-Usage:
-  Clone the repo.
-  Go into the repo and enter the command "npm install" . This will install slackbots ,sqlite3 and other required node modules.
-  To run the bot use the command -
-    BOT_API_KEY=<your token> BOT_NAME=<name of your bot> node ./bin/initiateBot.js 
+#Usage:
+*Clone the repo.
+*Go into the repo and enter the command "npm install" . This will install slackbots ,sqlite3 and other required node modules.
+*To run the bot use the command -
+-BOT_API_KEY=<your token> BOT_NAME=<name of your bot> node ./bin/initiateBot.js 
